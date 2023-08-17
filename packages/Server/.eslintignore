@@ -1,0 +1,9 @@
+/node_modules/
+/out/
+/dist/
+/build/**
+/coverage/**
+/templates/**
+/__tests__/**
+./eslintrc.js
+src/generated/resolvers-types.ts
